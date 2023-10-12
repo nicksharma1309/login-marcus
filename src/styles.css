@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+.greeting {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.button-private {
+  width: 100%;
+  padding: 10px;
+  background: #dc3545;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
